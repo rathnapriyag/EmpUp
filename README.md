@@ -1,5 +1,5 @@
 # EmpUp
-Data Analysis of Indian Startup and Fundings
+Data Analysis of Indian Startups and their Fundings.
 Project By:
  - Rathnapriya Gopalakrishnan (myself)
  - Apoorv Awasthi
